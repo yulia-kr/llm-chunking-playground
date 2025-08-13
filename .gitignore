@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & credentials
+.env
+*.env
+*key*
+*token*
+*secret*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual envs
+venv/
+.venv/
+
+# Confidential PDFs but keep folder
+pdfs/*
+!pdfs/.gitkeep

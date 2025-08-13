@@ -1,0 +1,8 @@
+jupyter
+notebook
+langchain>=0.1.0
+openai>=1.0.0
+tiktoken
+pandas
+numpy
+python-dotenv
